@@ -1,4 +1,4 @@
-
+iStat Menus for macOS updated Module: menu-bar-customization & CPU-monitoring offers the most advanced iStat Menus for macOS module, with menu-bar-customization and
 
 
 
